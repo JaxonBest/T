@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewbox="-37.5 -38 2248.5 695" width=" 2686" height=" 1132 ">
+	<line x1="62.5" y1="695" x2="62.5" y2="63" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="62.5" y1="63" x2="2248.5" y2="63" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2248.5" y1="63" x2="2248.5" y2="695" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2248.5" y1="695" x2="62.5" y2="695" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="322.5" y1="547" x2="322.5" y2="503" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="330.5" y1="495" x2="414.5" y2="495" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="422.5" y1="503" x2="422.5" y2="547" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="414.5" y1="555" x2="372.5" y2="555" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="372.5" y1="555" x2="372.5" y2="525" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="372.5" y1="525" x2="372.5" y2="555" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="372.5" y1="555" x2="330.5" y2="555" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2098.5" y1="329" x2="2098.5" y2="245" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2106.5" y1="237" x2="2140.5" y2="237" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2148.5" y1="245" x2="2148.5" y2="329" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2140.5" y1="337" x2="2123.5" y2="337" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2123.5" y1="337" x2="2123.5" y2="287" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2123.5" y1="287" x2="2123.5" y2="337" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<line x1="2123.5" y1="337" x2="2106.5" y2="337" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<path d="M322.5 503 Q 322.5 495, 330.5 495" fill-opacity="0" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<path d="M414.5 495 Q 422.5 495, 422.5 503" fill-opacity="0" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<path d="M422.5 547 Q 422.5 555, 414.5 555" fill-opacity="0" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<path d="M330.5 555 Q 322.5 555, 322.5 547" fill-opacity="0" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<path d="M2098.5 245 Q 2098.5 237, 2106.5 237" fill-opacity="0" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<path d="M2140.5 237 Q 2148.5 237, 2148.5 245" fill-opacity="0" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<path d="M2148.5 329 Q 2148.5 337, 2140.5 337" fill-opacity="0" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<path d="M2106.5 337 Q 2098.5 337, 2098.5 329" fill-opacity="0" style="stroke:rgb(0,0,0);stroke-width:1;" />
+	<text x="311.25" y="537.5" style="stroke:rgb(0,0,0);stroke-width:1;">170</text>
+	<text x="311.25" y="562.5" style="stroke:rgb(0,0,0);stroke-width:1;">310</text>
+	<text x="2087.25" y="319.5" style="stroke:rgb(0,0,0);stroke-width:1;">408</text>
+	<text x="2087.25" y="344.5" style="stroke:rgb(0,0,0);stroke-width:1;">120</text>
+	<text x="50" y="382" style="stroke:rgb(0,0,0);stroke-width:1;">632</text>
+	<text x="1143" y="66" style="stroke:rgb(0,0,0);stroke-width:1;">2186</text>
+	<text x="2236" y="382" style="stroke:rgb(0,0,0);stroke-width:1;">632</text>
+	<text x="1143" y="698" style="stroke:rgb(0,0,0);stroke-width:1;">2186</text>
+</svg>
